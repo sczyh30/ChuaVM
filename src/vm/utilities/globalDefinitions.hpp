@@ -1,0 +1,3 @@
+/**
+ * Zvm global definitions
+ */
