@@ -1,4 +1,7 @@
-# Zvm
-zvm - a simple virtual machine
+# ChuaVM
+ChuaVM is a simple high-level language virtual machine.
 
-2016.1.24 正式开工~!
+##Schedule
+
+- [ ] 2016/1/24 Begin Developing
+- [ ] 2016/3 Feature Complete

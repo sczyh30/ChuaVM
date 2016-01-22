@@ -1,7 +1,7 @@
 /**
- * Zvm global definitions
+ * ChuaVM global definitions
  */
 
-#ifndef ZVM_DEV_TEST
-#define ZVM_DEV_TEST
+#ifndef CHUA_VM_DEV_TEST
+#define CHUA_VM_DEV_TEST
 #endif
